@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KOrmo0.0</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="living_in_the_digital_world_we_want_to_design_a_website_that_aims_to_be_digital_currently_many_things_are_possible_online_the_origin_of_this_idea_is_from_two_things_first_of_all_if_we_can_create_an_online_shop_for_the_society_that_is_unique_and_secondly_in_this_corona_epidemic_many_are_leaning_towards_freelancing_but_low_income_people_do_not_have_that_many_opportunities_so_they_have_to_fight_a_deadly_battle_with_their_lives_in_some_cases_there_are_ride_sharing_apps_like_uber_pathao_obhai_as_drivers_on_the_other_hand_there_are_apps_like_foodpanda_shohoz_foods_but_there_is_no_such_arrangement_for_the_mechanics_this_website_is_for_them_through_this_people_can_get_kinds_of_workers_including_carpenters_painters_masons_for_their_house_this_is_our_effort_to_make_their_life_journey_easier">Living in the digital world, we want to design a website that aims to be digital. Currently, many things are possible online. The origin of this idea is from two things. First of all, if we can create an online shop for the society that is unique. And secondly, in this Corona epidemic, many are leaning towards freelancing. But low-income people do not have that many opportunities. So they have to fight a deadly battle with their lives. In some cases, there are ride-sharing apps like \'Uber\', \'Pathao\', \'OBhai\' as drivers.On the other hand, there are apps like \'Foodpanda\', \'Shohoz Foods\' but there is no such arrangement for the mechanics. This website is for them. Through this, people can get kinds of workers including carpenters, painters, masons for their house. This is our effort to make their life journey easier.</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutUs"
+    tools:ignore="ExtraText">
+
+    <TextView
+        android:id="@+id/aboutkormo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/living_in_the_digital_world_we_want_to_design_a_website_that_aims_to_be_digital_currently_many_things_are_possible_online_the_origin_of_this_idea_is_from_two_things_first_of_all_if_we_can_create_an_online_shop_for_the_society_that_is_unique_and_secondly_in_this_corona_epidemic_many_are_leaning_towards_freelancing_but_low_income_people_do_not_have_that_many_opportunities_so_they_have_to_fight_a_deadly_battle_with_their_lives_in_some_cases_there_are_ride_sharing_apps_like_uber_pathao_obhai_as_drivers_on_the_other_hand_there_are_apps_like_foodpanda_shohoz_foods_but_there_is_no_such_arrangement_for_the_mechanics_this_website_is_for_them_through_this_people_can_get_kinds_of_workers_including_carpenters_painters_masons_for_their_house_this_is_our_effort_to_make_their_life_journey_easier"
+        android:textSize="25dp"
+        />
+
+
+</RelativeLayout>
